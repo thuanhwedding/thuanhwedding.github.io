@@ -14977,3 +14977,13 @@ static-hero-s4
     color: #fff;
   }
 }/*# sourceMappingURL=style.css.map */
+
+.wpo-cta-section-s3 {
+    background: url(../img/19.jpg) no-repeat center center;
+    padding: 145px 0;
+    position: relative;
+    z-index: 1;
+    height: 100vh;
+    background-size: cover;
+    background-position: bottom center;
+}
